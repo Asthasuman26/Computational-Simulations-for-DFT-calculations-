@@ -19,10 +19,15 @@ Accuracy and reproducibility were central to the project. Each simulation setup 
 Overall, this repository reflects a comprehensive computational study involving:
 
 • Design and execution of density functional theory simulations
+
 • Structural optimization and convergence analysis
+
 • Systematic parameter exploration
+
 • Extraction and interpretation of electronic and magnetic properties
+
 • Automation of simulation workflows
+
 • Organization and comparative analysis of computational results
 
 This work demonstrates practical application of quantum mechanical modeling tools to solve real-world materials science and condensed matter physics problems. It highlights both theoretical understanding and hands-on computational implementation in the field of first-principles simulations.
